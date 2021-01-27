@@ -1,6 +1,6 @@
 # Convert a CSV stream into a string array
 
-[![NuGet](https://img.shields.io/badge/NuGet-0.1.0-blue.svg)](https://www.myget.org/feed/hilres/package/nuget/Hilres.CSV)
+**_Archived_** . . . Use something else like: [CsvHelper](https://www.nuget.org/packages/CsvHelper)
 
 Convert a CSV stream into a string array.
 
