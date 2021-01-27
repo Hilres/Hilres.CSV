@@ -1,6 +1,6 @@
-# Convert a CSV stream into a string array
-
 **_Archived_** . . . Use something else like: [CsvHelper](https://www.nuget.org/packages/CsvHelper)
+
+# Convert a CSV stream into a string array
 
 Convert a CSV stream into a string array.
 
